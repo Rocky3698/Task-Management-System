@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'task',
     'category',
     'crispy_forms',
-    'cirspy_bootstrap5',
+    'crispy_bootstrap5',
 ]
 
 CRISPY_ALLOWED_TEMPLATE_PACKS='bootstrap5'
